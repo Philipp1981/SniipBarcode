@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973080835709",
+    "firebase_url": "https://sniipbarcode.firebaseio.com",
+    "project_id": "sniipbarcode",
+    "storage_bucket": "sniipbarcode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973080835709:android:8c9ea388fbbc3a63d1a314",
+        "android_client_info": {
+          "package_name": "ru.sniip.barcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973080835709-7fvq5f9qhvlapdobckiceten29bl2lng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3yMhJn-XqA9rY_TAmBXJNq7gYWkYHvac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973080835709-7fvq5f9qhvlapdobckiceten29bl2lng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
